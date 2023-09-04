@@ -5,3 +5,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 >>> 
 >>> print("COP2002 Fall 2023")
 COP2002 Fall 2023
+#Adding a blank line at the end of the file
+
+print(I'm understanding how to use GitHub to keep track of changes!")
